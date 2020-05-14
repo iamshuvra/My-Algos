@@ -1,1 +1,1 @@
-# Competitive-Codes
+# Competitive and AI algorithms
